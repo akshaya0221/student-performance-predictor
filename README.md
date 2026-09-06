@@ -85,6 +85,10 @@ Approximate results:
 - `student_performance.csv` — Dataset
 - `student_performance_model.keras` — Trained TensorFlow model
 
-## Author
+## Team Members
 
-Akshaya Tuduru
+Tuduru Akshaya
+Janga Harshitha
+Pinninte Rithika Reddy
+Pamireddy Chandravathi
+
