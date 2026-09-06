@@ -88,7 +88,10 @@ Approximate results:
 ## Team Members
 
 Tuduru Akshaya
+
 Janga Harshitha
+
 Pinninte Rithika Reddy
+
 Pamireddy Chandravathi
 
